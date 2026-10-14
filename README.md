@@ -42,11 +42,11 @@ The main objective is to collect EEG signals, process the collected data, and di
 
 ### Software Components
 
-| Technology           | Purpose                                                                                                   
-| HTML5                | Structures the web pages and organizes the displayed content.                                             
-| AI / Signal Analysis | Supports the analysis and representation of brain-signal patterns, according to the implemented |approach              |
-
-| Render               | Hosts the web application and makes it accessible online.                                                 
+| Technology           | Purpose                                                                                                   |
+| -------------------- | --------------------------------------------------------------------------------------------------------- |
+| HTML5                | Structures the web pages and organizes the displayed content.                                             |
+| AI / Signal Analysis | Supports the analysis and representation of brain-signal patterns, according to the implemented approach. |
+| Render               | Hosts the web application and makes it accessible online.                                                 |
 
 ## ⚙️ System Workflow
 
@@ -125,9 +125,4 @@ The project is deployed on Render and can be accessed through the following link
 This project is an educational prototype for exploring brain-signal visualization and analysis. Emotional states cannot be reliably determined from EEG signals alone without scientific validation. This project is not a medical diagnostic tool.
 
 ##
-
-
-
-
-
 
